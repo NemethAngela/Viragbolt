@@ -1,0 +1,14 @@
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\bin\Debug\net6.0\AutosKonzolApp.exe
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\bin\Debug\net6.0\AutosKonzolApp.deps.json
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\bin\Debug\net6.0\AutosKonzolApp.runtimeconfig.json
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\bin\Debug\net6.0\AutosKonzolApp.dll
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\bin\Debug\net6.0\AutosKonzolApp.pdb
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.AssemblyInfoInputs.cache
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.AssemblyInfo.cs
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.csproj.CoreCompileInputs.cache
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.dll
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\refint\AutosKonzolApp.dll
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.pdb
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\AutosKonzolApp.genruntimeconfig.cache
+C:\Angéla\KULKER\2_ÉVF\Viragbolt\AutosKonzolApp\obj\Debug\net6.0\ref\AutosKonzolApp.dll

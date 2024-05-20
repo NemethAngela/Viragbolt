@@ -1,0 +1,20 @@
+[
+    {
+        "id": 100,
+        "nev": "Rózsa 2",
+        "kategoriaId": 1,
+        "leiras": "A rózsa a rózsafélék (Rosaceae) családjába tartozó növények közös neve. A rózsafélék családjába mintegy 100-150 faj tartozik, melyek a mérsékelt égövön őshonosak.",
+        "keszlet": 10,
+        "ar": 1000,
+        "kepUrl": "https://example.com/roza.jpg"
+    },
+    {
+        "id": 200,
+        "nev": "Tulipán 2",
+        "kategoriaId": 1,
+        "leiras": "A tulipán (Tulipa) a liliomfélék (Liliaceae) családjába tartozó növények nemzetsége. A tulipánok a törökországi Szökevény-hegységben őshonosak.",
+        "keszlet": 20,
+        "ar": 800,
+        "kepUrl": "https://example.com/tulipan.jpg"
+    }
+]
